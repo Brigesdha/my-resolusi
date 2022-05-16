@@ -8,6 +8,10 @@ RENCANA PROJECT WITH FRAMEWORK
   * Laravel
   * CodeIgneter
 - CSS
+  * Bootstrap
 - Cisco
   * Routing
   * Vlan
+- MikroTik
+  * Switching
+  * VPN
