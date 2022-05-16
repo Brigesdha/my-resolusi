@@ -2,3 +2,5 @@ My Resolusi
 - Paham materi Php dasar dan OOP
 - Membuat project dari php dasar
 - paham framework php
+- Paham materi Javascript
+- Membuat login page
