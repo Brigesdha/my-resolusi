@@ -3,4 +3,4 @@ My Resolusi
 - Membuat project dari php dasar
 - paham framework php
 - Paham materi Javascript
-- Membuat login page
+- Membuat framework bootstrap
