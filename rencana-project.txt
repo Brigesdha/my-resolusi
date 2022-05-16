@@ -3,9 +3,15 @@ RENCANA PROJECT WITH FRAMEWORK
 - Javascript
   * Vue
   * Angular
+  * React
 - php
   * Laravel
+  * CodeIgneter
 - CSS
   * Bootstrap
-  * Materialize ui
 - Cisco
+  * Routing
+  * Vlan
+- MikroTik
+  * Switching
+  * VPN
