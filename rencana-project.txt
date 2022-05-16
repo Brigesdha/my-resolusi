@@ -3,6 +3,11 @@ RENCANA PROJECT WITH FRAMEWORK
 - Javascript
   * Vue
   * Angular
+  * React
 - php
+  * Laravel
+  * CodeIgneter
 - CSS
 - Cisco
+  * Routing
+  * Vlan
