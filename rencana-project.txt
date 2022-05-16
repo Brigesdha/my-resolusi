@@ -4,5 +4,8 @@ RENCANA PROJECT WITH FRAMEWORK
   * Vue
   * Angular
 - php
+  * Laravel
 - CSS
+  * Bootstrap
+  * Materialize ui
 - Cisco
